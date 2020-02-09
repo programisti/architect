@@ -16,12 +16,8 @@ function App() {
     <Pre />
     <Router>
         <Switch>
-          <Route path="/">
-            <Home />
-          </Route>
-          <Route path="/projects">
-            <Project />
-          </Route>
+          <Route path="/" exact component={Home} />
+          <Route path="/projects" component={Project} />
         </Switch>
     </Router>
     <Footer />

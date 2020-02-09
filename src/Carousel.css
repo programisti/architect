@@ -1,0 +1,11 @@
+
+.carousel-item {
+  width: 1519px;
+  margin-right: 10px;
+}
+
+.carousel-outer {
+  transform: translate3d(-4587px, 0px, 0px);
+  transition: all 0.25s ease 0s;
+  width: 10703px
+}
