@@ -9,7 +9,7 @@ const Blog = props => (
     <div className="container">
       <h2 className="section-intro__subtitle">ბლოგი</h2>
       <div className="btn-group breadcrumb">
-        <a href="index.html" className="btn">მთავარი</a>
+        <a href="/" className="btn">მთავარი</a>
         <span className="btn btn--rightBorder">ბლოგი</span>
       </div>
     </div>
