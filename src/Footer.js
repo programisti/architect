@@ -18,17 +18,26 @@ function Footer() {
   				<div className="col-sm-4 col-lg-2 mb-4 mb-lg-0 text-left">
   					<h3 className="footer__title">კითხვარი</h3>
   					<ul className="footer__link">
-  						<li><a href="#/">ვაკანსიები</a></li>
-  						<li><a href="#/">ჩვენი გუნდი</a></li>
+  						<li><a href="/">ვაკანსიები</a></li>
+  						<li><a href="/">ჩვენი გუნდი</a></li>
   					</ul>
   				</div>
   				<div className="col-sm-4 col-lg-2 mb-4 mb-lg-0 text-left">
   					<h3 className="footer__title">სხვადასხვა</h3>
   					<ul className="footer__link">
-  						<li><a href="#/">Jobs</a></li>
-  						<li><a href="#/">Brand Assets</a></li>
-  						<li><a href="#/">Investor Relations</a></li>
-  						<li><a href="#/">Terms of Service</a></li>
+  						<li><a href="/">მისამართები</a></li>
+  						<li><a href="/">ბრენდინგი</a></li>
+  						<li><a href="/contact">კონტაქტი</a></li>
+  						<li><a href="#/">ინვესტორები</a></li>
+  					</ul>
+  				</div>
+  				<div className="col-sm-4 col-lg-2 mb-4 mb-lg-0 text-left">
+  					<h3 className="footer__title">რესურები</h3>
+  					<ul className="footer__link">
+  						<li><a href="/">ჩვენს შესახებ</a></li>
+  						<li><a href="/">ბლა ბლა</a></li>
+  						<li><a href="/">კიდე რაღაცა</a></li>
+  						<li><a href="/">აგენტები</a></li>
   					</ul>
   				</div>
   				<div className="col-sm-8 col-lg-4 mb-4 mb-lg-0 text-left">
