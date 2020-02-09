@@ -28,22 +28,22 @@ const Contact = props => (
           <div className="media contact-info">
             <span className="contact-info__icon"><i className="lnr lnr-home"></i></span>
             <div className="media-body">
-              <h3>California United States</h3>
-              <p>Santa monica bullevard</p>
+              <h3>თბილისი, საქართველო</h3>
+              <p>ლუბლიანას 11</p>
             </div>
           </div>
           <div className="media contact-info">
             <span className="contact-info__icon"><i className="lnr lnr-phone-handset"></i></span>
             <div className="media-body">
-              <h3><a href="tel:454545654">00 (440) 9865 562</a></h3>
-              <p>Mon to Fri 9am to 6pm</p>
+              <h3><a href="tel:454545654">0 322 244244</a></h3>
+              <p>ორშაბათი-პარასკევი 10:00-19:00</p>
             </div>
           </div>
           <div className="media contact-info">
             <span className="contact-info__icon"><i className="lnr lnr-envelope"></i></span>
             <div className="media-body">
-              <h3><a href="mailto:support@colorlib.com">support@colorlib.com</a></h3>
-              <p>Send us your query anytime!</p>
+              <h3><a href="mailto:support@colorlib.com">contact@kodua.herokuapp.com</a></h3>
+              <p>გამოგვიგზავნეთ შეტყობინება ნებისმიერ დროს!</p>
             </div>
           </div>
         </div>
