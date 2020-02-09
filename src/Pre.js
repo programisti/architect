@@ -10,9 +10,6 @@ function Pre() {
   				<a href="/">მთავარი</a>
   			</li>
   			<li>
-  				<a href="about">ჩვენს შესახებ</a>
-  			</li>
-  			<li>
   				<a href="projects">პორტფოლიო</a>
   			</li>
   			<li>

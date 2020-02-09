@@ -31,15 +31,6 @@ function Footer() {
   						<li><a href="#/">Terms of Service</a></li>
   					</ul>
   				</div>
-  				<div className="col-sm-4 col-lg-2 mb-4 mb-lg-0 text-left">
-  					<h3 className="footer__title">რესურები</h3>
-  					<ul className="footer__link">
-  						<li><a href="#/">Guides</a></li>
-  						<li><a href="#/">Research</a></li>
-  						<li><a href="#/">Experts</a></li>
-  						<li><a href="#/">Agencies</a></li>
-  					</ul>
-  				</div>
   				<div className="col-sm-8 col-lg-4 mb-4 mb-lg-0 text-left">
   					<h3 className="footer__title">სიახლეები</h3>
   					<p>გამოიწერეთ სიახლეები</p>

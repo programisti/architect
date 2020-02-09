@@ -41,7 +41,7 @@ const Project = props => (
   				<div className="col-md-5 mb-5 pr-xl-5 order-2 order-md-1">
   					<h4 className="section-intro__title left-border">ნოემბერი, 2018</h4>
   					<h2 className="section-intro__subtitle small">სახლი ტყეში</h2>
-  					<p>გსუურთ იცხოვროთ ეკოლოგიურად სუფთა გარემოში? მაშინ შეიძინეთ სახლი ტყეში.</p>
+  					<p>გსურთ იცხოვროთ ეკოლოგიურად სუფთა გარემოში? მაშინ შეიძინეთ სახლი ტყეში.</p>
 
   					<a className="btn btn--rightBorder mt-3" href="#/">მეტის წაკითხვა</a>
   				</div>
