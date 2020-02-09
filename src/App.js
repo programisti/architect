@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Pre from './Pre';
 import Footer from './Footer';
 import Home from './Home';
