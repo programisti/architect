@@ -4,7 +4,7 @@ import React from 'react';
 const Carousel = props => (
   <header>
     <div className="hero">
-      <a className="navbar-brand" href="index.html">
+      <a className="navbar-brand" href="/">
         <img src="img/logo.png" alt=""/>
       </a>
       <div className="owl-carousel owl-theme heroCarousel owl-loaded owl-drag">

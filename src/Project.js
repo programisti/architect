@@ -3,7 +3,7 @@ import React from 'react';
 const Project = props => (
   <>
   <header className="hero-banner project-bg">
-    <a className="navbar-brand" href="index.html">
+    <a className="navbar-brand" href="/">
       <img src="img/logo.png" alt="" />
     </a>
 
