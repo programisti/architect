@@ -68,7 +68,7 @@ const Home = props => (
   						<span className="overview__single__icon"><i className="ti-gift"></i></span>
   						<div className="media-body">
   							<h3>2000+</h3>
-  							<p>კერძო ობიექტი</p>
+  							<p>აშენებული კერძო ობიექტი</p>
   						</div>
   					</div>
   				</div>
